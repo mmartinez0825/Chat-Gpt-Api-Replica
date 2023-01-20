@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+
+h1 {
+  font-size: 40px;
+  color: blue;
+}
+
+input {
+  border-color: blue;
+  border-radius: 50px;
+  border-width: 5px;
+  font-size: 20px;
+}
+
+button {
+  background-color: blue;
+  color: white;
+  border-radius: 50px;
+  border-width: 5px;
+  font-size: 20px;
+}
+
+#quote {
+  font-size: 30px;
+}
+
+label {
+  font-size: 20px;
+}
+
+p {
+  font-size: 20px;
+  color: white;
+}
